@@ -1,0 +1,12 @@
+
+
+#056 12345 55
+
+
+start="056"
+end="55"
+a=0
+while a<99999:
+	a=a+1
+	print(start+str(a)+end)
+
